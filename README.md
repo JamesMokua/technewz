@@ -1,4 +1,5 @@
 # TechNewz
+Check out live site click here: https://mokuabuildstechnewz.netlify.app/
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
